@@ -1,0 +1,34 @@
+{
+  "build": "hd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cpython 3.12.12.*",
+    "python_abi * *_cp312"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/python-gil-3.12.12-hd8ed1ab_2",
+  "files": [],
+  "fn": "python-gil-3.12.12-hd8ed1ab_2.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/python-gil-3.12.12-hd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "d41b6b394546ee6e1c423e28a581fc71",
+  "name": "python-gil",
+  "noarch": "generic",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/python-gil-3.12.12-hd8ed1ab_2.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3307c01627ae45524dfbdb149f7801818608c9c49d88ac89632dff32e149057f",
+  "size": 46618,
+  "subdir": "noarch",
+  "timestamp": 1769471082000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-gil-3.12.12-hd8ed1ab_2.conda",
+  "version": "3.12.12"
+}

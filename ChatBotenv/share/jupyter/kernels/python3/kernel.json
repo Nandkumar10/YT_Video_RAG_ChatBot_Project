@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "/Users/nandkumaradmane/Desktop/ChatBot_RAG/ChatBotenv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ },
+ "kernel_protocol_version": "5.5"
+}

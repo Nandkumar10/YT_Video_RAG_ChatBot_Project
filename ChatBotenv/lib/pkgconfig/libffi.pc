@@ -1,0 +1,11 @@
+prefix=/Users/nandkumaradmane/Desktop/ChatBot_RAG/ChatBotenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/nandkumaradmane/Desktop/ChatBot_RAG/ChatBotenv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
